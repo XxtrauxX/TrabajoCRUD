@@ -4,4 +4,5 @@ public class ProyectoController {
 
     private int id;
     private int idd;
+    private int prueba;
 }
