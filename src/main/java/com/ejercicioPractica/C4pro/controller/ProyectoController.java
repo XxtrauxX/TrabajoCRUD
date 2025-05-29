@@ -6,4 +6,5 @@ public class ProyectoController {
     private int idd;
     private int prueba;
     private int prueba_definitiva;
+    private int definicion;
 }
